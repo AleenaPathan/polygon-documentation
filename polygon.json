@@ -1,0 +1,66 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a decentralized, open-source blockchain with smart contract functionality. MATIC is the native cryptocurrency of the platform. It is a scalable solution for Ethereum, offering fast and low-cost transactions.",
+    "tags": ["pos", "smart contracts", "ethereum ecosystem", "layer 1", "evm"],
+    "coin_details": {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "logo": "logo/polygon.png",
+      "max_supply": "∞"
+    },
+    "chain_details": [
+      {
+        "name": "Language",
+        "type": "Solidity"
+      },
+      {
+        "name": "Consensus",
+        "type": "Proof of stake"
+      },
+      {
+        "name": "Chain Layer",
+        "type": "L1"
+      },
+      {
+        "name": "Chain Type",
+        "type": "EVM"
+      }
+    ],
+    "official_links": {
+      "website": "https://polygon.technology/",
+      "whitepaper": "https://polygon.technology/whitepaper/",
+      "documentation": "https://polygon.technology/developers/docs/",
+      "forum": "https://forum.polygon.technology/",
+      "github": "https://github.com/0xPolygon/"
+    },
+    "social_platforms": {
+      "discord": "https://discord.com/invite/polygon",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://www.reddit.com/r/maticnetwork/",
+      "community": "https://polygon.technology/community/online",
+      "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+      "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+    },
+    "meta_data": [
+      {
+        "name": "CoinMarketCap",
+        "data": [
+          {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+          }
+        ]
+      },
+      {
+        "name": "CoinGecko",
+        "data": [
+          {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+          }
+        ]
+      },
+      // Other meta data modified accordingly...
+    ]
+  }
+  
